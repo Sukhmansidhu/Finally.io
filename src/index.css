@@ -1,13 +1,154 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+:root {
+  --bg-color: #f8f9fa;
+  --text-color: #212529;
+  --primary-color: #0d6efd;
+  --secondary-color: #6c757d;
+  --card-bg: #ffffff;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --footer-bg: #343a40;
+  --footer-text: #f8f9fa;
+  --border-color: #dee2e6;
+  --input-bg: #ffffff;
+  --input-text: #212529;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #e2e2e2;
+  --primary-color: #63b3ed;
+  --secondary-color: #a0aec0;
+  --card-bg: #2d2d2d;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --footer-bg: #1f1f1f;
+  --footer-text: #e2e2e2;
+  --border-color: #4a4a4a;
+  --input-bg: #1e1e1e;
+  --input-text: #e2e2e2;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Poppins', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+}
+
+a {
+  color: var(--primary-color);
+}
+
+.text-muted, .small {
+  color: var(--secondary-color) !important;
+}
+
+.bg-dark {
+  background-color: var(--footer-bg) !important;
+  color: var(--footer-text) !important;
+}
+
+.text-white {
+  color: var(--footer-text) !important;
+}
+
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.btn-primary {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.btn-outline-primary {
+  color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.btn-outline-secondary {
+  color: var(--secondary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+
+.card {
+  background-color: var(--card-bg) !important;
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+  color: var(--text-color); 
+}
+
+.card h5, .card p {
+  color: var(--text-color);
+}
+.card .small {
+  color: var(--secondary-color) !important;
+}
+
+
+.form-control, .form-select {
+  background-color: var(--input-bg);
+  color: var(--input-text);
+  border-color: var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.form-control::placeholder {
+  color: var(--secondary-color);
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 0.25rem rgba(var(--primary-color), 0.25) !important;
+}
+
+
+.modal-content {
+  background-color: var(--card-bg) !important;
+  color: var(--text-color) !important;
+  border: 1px solid var(--border-color) !important;
+}
+
+
+.step-card,
+.journey-flow-card {
+  background-color: var(--card-bg) !important;
+  box-shadow: var(--card-shadow);
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+  color: var(--text-color) !important;
+}
+
+.step-card h5, .step-card p,
+.journey-flow-card h5, .journey-flow-card p {
+  color: inherit !important; 
+}
+
+.step-card.bg-primary,
+.journey-flow-card.bg-primary {
+  background-color: var(--primary-color) !important;
+  color: var(--card-bg) !important;
+}
+
+.step-card.bg-primary h5, .step-card.bg-primary p,
+.journey-flow-card.bg-primary h5, .journey-flow-card.bg-primary p {
+  color: var(--card-bg) !important;
+}
+
+.step-card .rounded-circle,
+.journey-flow-card .rounded-circle {
+  background-color: var(--primary-color);
+  color: var(--card-bg);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.step-card.bg-primary .rounded-circle,
+.journey-flow-card.bg-primary .rounded-circle {
+  background-color: var(--card-bg) !important;
+  color: var(--primary-color) !important;
 }

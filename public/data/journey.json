@@ -1,0 +1,38 @@
+[
+  {
+    "id": "student",
+    "title": "Student",
+    "desc": "Explore career options",
+    "content": "As a student, focus on learning fundamentals and exploring different career paths. Attend workshops, participate in extracurricular activities, and seek mentorship from teachers and senior students to identify your interests and strengths. Develop a growth mindset and set achievable academic and personal goals.",
+    "tips": ["Attend workshops", "Participate in clubs", "Seek mentorship", "Set personal goals"],
+    "resources": ["https://www.khanacademy.org", "https://www.coursera.org", "https://www.edx.org"],
+    "image": "student.png"
+  },
+  {
+    "id": "learner",
+    "title": "Learner",
+    "desc": "Build skills with curated courses",
+    "content": "As a learner, take online courses, attend bootcamps, and participate in practical projects to build relevant skills. Join communities and forums to discuss topics and get guidance. Focus on both technical and soft skills to prepare yourself for real-world challenges and improve your employability.",
+    "tips": ["Take online courses", "Join study groups", "Work on projects", "Practice coding daily"],
+    "resources": ["https://www.freecodecamp.org", "https://www.udemy.com", "https://www.pluralsight.com"],
+    "image": "learner.png"
+  },
+  {
+    "id": "intern",
+    "title": "Intern",
+    "desc": "Gain real-world experience",
+    "content": "As an intern, apply your knowledge to real projects, collaborate with teams, and gain hands-on experience. Take initiative, ask questions, and seek feedback to improve. Document your learnings, expand your professional network, and understand workplace culture to prepare for future employment opportunities.",
+    "tips": ["Document your work", "Ask questions", "Take initiative", "Build professional network"],
+    "resources": ["https://www.linkedin.com/learning", "https://internshala.com", "https://www.glassdoor.com"],
+    "image": "intern.png"
+  },
+  {
+    "id": "employee",
+    "title": "Employee",
+    "desc": "Kickstart your career",
+    "content": "As an employee, start your professional journey by taking ownership of tasks and responsibilities. Continue learning, adapt to workplace challenges, and work collaboratively with colleagues. Set long-term career goals, seek mentorship, and consistently strive to enhance your skills and performance.",
+    "tips": ["Set career goals", "Seek mentorship", "Continue learning", "Collaborate with team"],
+    "resources": ["https://www.linkedin.com", "https://www.hbr.org", "https://www.coursera.org"],
+    "image": "employee.png"
+  }
+]

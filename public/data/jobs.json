@@ -1,0 +1,17 @@
+[
+  { "id": 1, "title": "Frontend Developer", "company": "TechSoft", "location": "Remote", "category": "Frontend", "applyLink": "https://example.com/apply/frontend" },
+  { "id": 2, "title": "React Developer", "company": "WebWorks", "location": "New Delhi", "category": "React", "applyLink": "https://example.com/apply/react" },
+  { "id": 3, "title": "UI/UX Designer", "company": "DesignHub", "location": "Mumbai", "category": "Design", "applyLink": "https://example.com/apply/uiux" },
+  { "id": 4, "title": "Backend Developer", "company": "ServerSide", "location": "Bangalore", "category": "Backend", "applyLink": "https://example.com/apply/backend" },
+  { "id": 5, "title": "Fullstack Developer", "company": "TechSolutions", "location": "Remote", "category": "Fullstack", "applyLink": "https://example.com/apply/fullstack" },
+  { "id": 6, "title": "Data Analyst Intern", "company": "DataInsights", "location": "Hyderabad", "category": "Data", "applyLink": "https://example.com/apply/data" },
+  { "id": 7, "title": "DevOps Engineer Intern", "company": "CloudOps", "location": "Bangalore", "category": "DevOps", "applyLink": "https://example.com/apply/devops" },
+  { "id": 8, "title": "Machine Learning Engineer", "company": "MLTech", "location": "Remote", "category": "ML/AI", "applyLink": "https://example.com/apply/ml" },
+  { "id": 9, "title": "Cloud Engineer", "company": "SkyNet", "location": "Bangalore", "category": "Cloud", "applyLink": "https://example.com/apply/cloud" },
+  { "id": 10, "title": "Backend Developer II", "company": "ServerMasters", "location": "Pune", "category": "Backend", "applyLink": "https://example.com/apply/backend2" },
+  { "id": 11, "title": "Fullstack Developer II", "company": "CodeWorks", "location": "Remote", "category": "Fullstack", "applyLink": "https://example.com/apply/fullstack2" },
+  { "id": 12, "title": "Frontend Developer II", "company": "FrontendPro", "location": "Chennai", "category": "Frontend", "applyLink": "https://example.com/apply/frontend2" },
+  { "id": 13, "title": "UI Developer Intern", "company": "UXLabs", "location": "Remote", "category": "UI/UX", "applyLink": "https://example.com/apply/ui2" },
+  { "id": 14, "title": "Data Engineer Intern", "company": "DataCorp", "location": "Mumbai", "category": "Data", "applyLink": "https://example.com/apply/data2" },
+  { "id": 15, "title": "Cloud DevOps Intern", "company": "CloudMasters", "location": "Remote", "category": "DevOps", "applyLink": "https://example.com/apply/devops2" }
+]

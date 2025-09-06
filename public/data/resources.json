@@ -1,0 +1,16 @@
+[
+  { "id": 1, "title": "Frontend Basics", "tags": ["HTML","CSS","JS"], "summary": "Learn HTML, CSS, JS fundamentals", "link": "https://www.khanacademy.org/computing/computer-programming" },
+  { "id": 2, "title": "React Guide", "tags": ["React"], "summary": "Master components and hooks in React", "link": "https://reactjs.org/docs/getting-started.html" },
+  { "id": 3, "title": "Career Tips", "tags": ["Career"], "summary": "Get advice to prepare for jobs and internships", "link": "https://www.coursera.org/articles/career-development-tips" },
+  { "id": 4, "title": "Git & GitHub", "tags": ["Tools","Git"], "summary": "Version control basics for developers", "link": "https://guides.github.com/introduction/git-handbook/" },
+  { "id": 5, "title": "UI/UX Design", "tags": ["Design","UI/UX"], "summary": "Principles of good design and usability", "link": "https://www.interaction-design.org/literature/topics/ui-design" },
+  { "id": 6, "title": "Node.js Guide", "tags": ["Backend","Node.js"], "summary": "Learn backend development with Node.js", "link": "https://nodejs.org/en/docs/" },
+  { "id": 7, "title": "Express.js Tutorial", "tags": ["Backend","Express"], "summary": "Build web servers using Express.js", "link": "https://expressjs.com/en/starter/installing.html" },
+  { "id": 8, "title": "MongoDB Basics", "tags": ["Database","MongoDB"], "summary": "Learn NoSQL database concepts with MongoDB", "link": "https://www.mongodb.com/docs/manual/tutorial/" },
+  { "id": 9, "title": "MySQL Basics", "tags": ["Database","MySQL"], "summary": "Learn relational database concepts with MySQL", "link": "https://dev.mysql.com/doc/" },
+  { "id": 10, "title": "Firebase Guide", "tags": ["Backend","Firebase"], "summary": "Learn to use Firebase services for backend and hosting", "link": "https://firebase.google.com/docs" },
+  { "id": 11, "title": "Tailwind CSS", "tags": ["CSS","Tailwind"], "summary": "Utility-first CSS framework for rapid UI development", "link": "https://tailwindcss.com/docs" },
+  { "id": 12, "title": "Bootstrap", "tags": ["CSS","Bootstrap"], "summary": "Popular CSS framework for responsive UI", "link": "https://getbootstrap.com/docs/5.0/getting-started/introduction/" },
+  { "id": 13, "title": "Deployment on Vercel", "tags": ["Deployment","Vercel"], "summary": "Deploy frontend and fullstack projects on Vercel", "link": "https://vercel.com/docs" },
+  { "id": 14, "title": "Deployment on Netlify", "tags": ["Deployment","Netlify"], "summary": "Host and deploy web projects easily with Netlify", "link": "https://docs.netlify.com/" }
+]

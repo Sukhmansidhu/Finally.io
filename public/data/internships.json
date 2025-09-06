@@ -1,0 +1,17 @@
+[
+  { "id": 1, "title": "Frontend Intern", "company": "TechSoft", "location": "Remote", "role": "Frontend", "duration": "3 months", "stipend": "$300/month", "applyLink": "https://www.example.com/apply/frontend1" },
+  { "id": 2, "title": "React Developer Intern", "company": "WebWorks", "location": "New Delhi", "role": "React", "duration": "6 months", "stipend": "$500/month", "applyLink": "https://www.example.com/apply/react" },
+  { "id": 3, "title": "UI/UX Intern", "company": "DesignHub", "location": "Mumbai", "role": "UI/UX", "duration": "2 months", "stipend": "Unpaid", "applyLink": "https://www.example.com/apply/uiux" },
+  { "id": 4, "title": "Backend Intern", "company": "ServerSide", "location": "Bangalore", "role": "Backend", "duration": "3 months", "stipend": "$400/month", "applyLink": "https://www.example.com/apply/backend" },
+  { "id": 5, "title": "Fullstack Intern", "company": "TechSolutions", "location": "Remote", "role": "Fullstack", "duration": "6 months", "stipend": "$600/month", "applyLink": "https://www.example.com/apply/fullstack" },
+  { "id": 6, "title": "Database Intern", "company": "DataCorp", "location": "Chennai", "role": "Database", "duration": "3 months", "stipend": "$350/month", "applyLink": "https://www.example.com/apply/database" },
+  { "id": 7, "title": "Data Analyst Intern", "company": "InsightAnalytics", "location": "Hyderabad", "role": "Data Analyst", "duration": "3 months", "stipend": "$400/month", "applyLink": "https://www.example.com/apply/data-analyst" },
+  { "id": 8, "title": "Mobile App Developer Intern", "company": "AppVentures", "location": "Remote", "role": "Mobile Developer", "duration": "4 months", "stipend": "$450/month", "applyLink": "https://www.example.com/apply/mobile" },
+  { "id": 9, "title": "Machine Learning Intern", "company": "MLTech", "location": "Bangalore", "role": "ML/AI", "duration": "6 months", "stipend": "$700/month", "applyLink": "https://www.example.com/apply/ml" },
+  { "id": 10, "title": "DevOps Intern", "company": "CloudOps", "location": "Remote", "role": "DevOps", "duration": "3 months", "stipend": "$500/month", "applyLink": "https://www.example.com/apply/devops" },
+  { "id": 11, "title": "Cybersecurity Intern", "company": "SecureNet", "location": "Mumbai", "role": "Cybersecurity", "duration": "3 months", "stipend": "$550/month", "applyLink": "https://www.example.com/apply/cybersecurity" },
+  { "id": 12, "title": "UI Developer Intern", "company": "FrontendPro", "location": "Remote", "role": "Frontend", "duration": "3 months", "stipend": "$400/month", "applyLink": "https://www.example.com/apply/ui" },
+  { "id": 13, "title": "Cloud Engineer Intern", "company": "SkyNet", "location": "Bangalore", "role": "Cloud", "duration": "4 months", "stipend": "$600/month", "applyLink": "https://www.example.com/apply/cloud" },
+  { "id": 14, "title": "Backend Developer Intern", "company": "ServerMasters", "location": "Pune", "role": "Backend", "duration": "5 months", "stipend": "$500/month", "applyLink": "https://www.example.com/apply/backend2" },
+  { "id": 15, "title": "Fullstack Developer Intern", "company": "CodeWorks", "location": "Remote", "role": "Fullstack", "duration": "6 months", "stipend": "$650/month", "applyLink": "https://www.example.com/apply/fullstack2" }
+]
